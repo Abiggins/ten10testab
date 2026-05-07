@@ -1,0 +1,1 @@
+export const CALCULATION_ERROR_MESSAGE = 'Please fill in all fields.';
