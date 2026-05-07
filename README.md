@@ -23,6 +23,7 @@ should calculate yearly interest correctly <br>
 should round interest and total amount to two decimal places <br>
 should require a principal amount  <br>
 should prevent submission without consent <br>
+- this test is currently failing, this is intentional as the requirements state it is a mandatory field, but it isnt. so it is expecting validation, but it just works
 Viewpoint Responsive test : should calculate daily interest correctly <br>
 
 ### Tests identified but not done
