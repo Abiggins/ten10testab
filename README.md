@@ -1,4 +1,3 @@
-<img width="1013" height="356" alt="image" src="https://github.com/user-attachments/assets/06ebe7ad-8043-4852-83eb-0f76dee3afb0" />#
 ## Runsteps
 Npm Install
 add a valid Email and Password to Config.json
